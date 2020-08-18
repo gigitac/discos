@@ -60,7 +60,7 @@
                                 <color key="textColor" red="0.44705882352941173" green="0.53725490196078429" blue="0.85490196078431369" alpha="0.84705882352941175" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aaron Peskin, Belnest Odupong" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Aev-ka-Wo9">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Apeskin107, gigitac" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Aev-ka-Wo9">
                                 <rect key="frame" x="82" y="152" width="250" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="250" id="en6-6H-tbq"/>
